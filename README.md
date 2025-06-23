@@ -1,6 +1,6 @@
 # ChatSphere – Connect Instantly, Anywhere
 
-**A Flutter-Based Real-Time Chat Application**
+**A Web-Based Real-Time Chat Application**
 
 ## Presented At
 **Xebia**
